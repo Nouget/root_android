@@ -1,2 +1,3 @@
 #!/bin/sh
-get
+get.device.info($(type="setting")
+get.permission.kingoroot
